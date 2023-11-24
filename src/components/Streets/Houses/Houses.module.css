@@ -1,0 +1,13 @@
+.housesContainer {
+	display: grid;
+	grid-template-areas: 'button house';
+	grid-template-columns: 35px 1fr;
+	margin: 0px 0px 0px 40px;
+}
+
+.houses {
+	grid-area: house;
+	font-size: 17px;
+	font-weight: 700;
+	padding: 0px 0px 0px 40px;
+}

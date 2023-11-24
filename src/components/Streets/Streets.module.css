@@ -1,0 +1,14 @@
+.city {
+	display: grid;
+}
+
+.streetsContainer {
+	display: grid;
+	grid-template-areas: 'street'
+								 'houses';
+}
+
+.streets {
+	font-size: 25px;
+	font-weight: bold;
+}
