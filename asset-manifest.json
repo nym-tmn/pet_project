@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pet_project/static/css/main.5b8e1a05.css",
+    "main.js": "/pet_project/static/js/main.5e2f69e9.js",
+    "static/js/787.d4aba7ab.chunk.js": "/pet_project/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/pet_project/index.html",
+    "main.5b8e1a05.css.map": "/pet_project/static/css/main.5b8e1a05.css.map",
+    "main.5e2f69e9.js.map": "/pet_project/static/js/main.5e2f69e9.js.map",
+    "787.d4aba7ab.chunk.js.map": "/pet_project/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b8e1a05.css",
+    "static/js/main.5e2f69e9.js"
+  ]
+}
