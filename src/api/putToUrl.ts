@@ -5,7 +5,7 @@ type ResponseType = {
 }
 
 export const putClient = async (activeApartment: number | undefined, clientId: number): Promise<ResponseType> => {
-	return await axios.put(`https://dispex.org/api/vtest//HousingStock/bind_client`, {
+	return await axios.put(`https://dispex.org/api/vtest/HousingStock/bind_client`, {
 		AddressId: activeApartment,
 		ClientId: clientId
 	});
